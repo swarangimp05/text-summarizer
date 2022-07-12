@@ -11,7 +11,7 @@ A quick glance at the summary would let the user know whether the video is worth
 -Keyword generation
 
 ## Algorithm Used
-It is Extractive summarization technique and sentence selection.Extractive methods attempt to summarize articles by selecting a subset of words that retain the most important points.Algorithms used are Term Frequency - Inverse Document Frequency (TF-IDF) and Text Rank Algorithm.
+It uses Extractive summarization technique and sentence selection.Extractive methods attempt to summarize articles by selecting a subset of words that retain the most important points.Algorithms used are Term Frequency - Inverse Document Frequency (TF-IDF) and Text Rank Algorithm.
 
 ## Software requirements<br />
 Operating System: Windows 10<br />
